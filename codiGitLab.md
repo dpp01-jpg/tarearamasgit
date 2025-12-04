@@ -28,3 +28,8 @@ GitLab es una plataforma única que cubre todo el ciclo de vida de DevOps, desde
 
 ## Enlace oficial
 https://about.gitlab.com/
+# GitLab - Breve descripción
+
+GitLab es una alternativa a GitHub con enfoque en DevOps.
+
+Ofrece control de versiones, CI/CD y gestión de proyectos.
